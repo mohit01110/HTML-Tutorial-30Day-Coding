@@ -1,0 +1,8 @@
+HTML ek Hyper Text Markup Language hai
+Ye ek structure provide krti hai jisse hume ek website bana sakte hai
+
+Question : Doctype HTML hum kyu likte hai 
+Answer: Doctype HTML hum islie likte hai taki hum browser to bta sake ke hum latest HTML5 version use kr rhe hai.
+
+
+
