@@ -4,5 +4,27 @@ Ye ek structure provide krti hai jisse hume ek website bana sakte hai
 Question : Doctype HTML hum kyu likte hai 
 Answer: Doctype HTML hum islie likte hai taki hum browser to bta sake ke hum latest HTML5 version use kr rhe hai.
 
+Question: What is Element?
+Answer: <tag> Hello </tag> <- ye puri cheez mila kr element khete hai 
 
 
+Question: Line Break Tag 
+Answer: <br> <- ye puri cheez mila kr line break krne ke liye use hota hai. Ye self closing tag hota hai.
+
+Question: What is hr tag?
+Answer: <hr> <- ye puri cheez mila kr horizontal line draw krne ke liye use hota hai 
+
+Question: What is pre tag?
+Answer: <pre> <- ye puri cheez mila kr preformatted text krne ke liye use hota hai. 
+
+Question: What is pre formatted Tags?
+Answer: <pre> <- ye puri cheez mila kr preformatted text krne ke liye use hota hai.
+
+Question: HTML Links
+Answer: HTML links are hyper links.
+
+Question: Absolute URL
+Answer: Absolute URL is a complete URL that includes the protocol, host name, and port number.
+
+Question: Relative URL
+Answer: Relative URL is a URL that does not include the protocol, host name, and port number.
