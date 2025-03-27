@@ -1,0 +1,4 @@
+Question: What is CSS?
+Answer: CSS Stands for Cascading Style Sheets.
+
+Question: Hex code short cut?
