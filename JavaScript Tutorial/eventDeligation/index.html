@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Event Deligation</title>
+    <style>
+      body {
+        background-color: seagreen;
+        padding: 20px;
+      }
+      div {
+        padding: 20px;
+        background-color: steelblue;
+        width: max-content;
+      }
+      span {
+        padding: 20px;
+        background-color: tomato;
+        display: block;
+      }
+      .btn {
+        padding: 10px;
+        border: none;
+        border-radius: 5px;
+        font-family: cursive;
+        font-size: 20px;
+        cursor: pointer;
+        box-shadow: 0 5px 0 #5c5d5c, 0 10px 10px rgba(0, 0, 0, 0.2);
+        transition: all 0.1s ease;
+      }
+      .btn:active {
+        box-shadow: 0 2px 0 #616761, 0 5px 5px rgba(0, 0, 0, 0.2);
+        transform: translateY(3px);
+      }
+
+      .btn:hover {
+        background: #b8c4b9;
+      }
+    </style>
+  </head>
+  <body>
+    <div>
+      <span>
+        <button class="btn">Click me</button>
+      </span>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
